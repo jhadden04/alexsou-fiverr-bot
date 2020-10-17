@@ -51,3 +51,4 @@ def csvreader():
                     time.sleep(2)
                     continue
 csvreader()
+subspam('FortNiteBR')
